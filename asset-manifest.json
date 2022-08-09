@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nicolas4746/listaTareas/static/css/main.9a2188af.css",
+    "main.js": "/nicolas4746/listaTareas/static/js/main.bbda01d9.js",
+    "index.html": "/nicolas4746/listaTareas/index.html",
+    "main.9a2188af.css.map": "/nicolas4746/listaTareas/static/css/main.9a2188af.css.map",
+    "main.bbda01d9.js.map": "/nicolas4746/listaTareas/static/js/main.bbda01d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2188af.css",
+    "static/js/main.bbda01d9.js"
+  ]
+}
